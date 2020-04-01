@@ -1,2 +1,4 @@
 rootProject.name = 'kafka-client'
+include 'kafka-basic'
+include 'kafka-twitter'
 
